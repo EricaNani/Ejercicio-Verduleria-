@@ -1,0 +1,143 @@
+* {background-color: whitesmoke;
+
+}
+body {
+    width: 100%;
+    /*height: 100vh;
+    overflow: hidden;*/
+    padding: 0;
+    margin: 0;
+}
+.banderas{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+}
+.bandera-argentina{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    
+}
+
+.franja-celeste{
+    background-color: lightblue;
+    /*margin: 0 auto 10px;*/
+    width: 100px;
+    height: 20px;
+  }
+
+.franja-blanca {
+    background-color: white;
+    /*border: 1px solid #ebebf2;*/
+    width: 100px;
+    height: 20px;
+   /* margin: 0 auto 10px;*/
+}
+
+.bandera-italiana{
+    width: 100px;
+    height: 60px;
+    margin: 10px auto;
+    display: flex;
+}
+
+.franja-verde {
+    background-color: green;
+    width: 33%;
+ 
+}
+  
+
+.franja-roja{
+    background-color: red;
+    width: 33%;
+  
+}
+
+.franja-blanca-2 {
+    background-color: white;
+    width: 33%;
+}
+
+.bandera-alemana {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
+
+.franja-negra {
+    background-color: black;
+    width: 100px;
+    height: 20px;
+}
+
+.franja-roja-2 {
+    background-color: red;
+    width: 100px;
+    height: 20px;
+}
+
+.franja-amarilla {
+    background-color: yellow;
+    width: 100px;
+    height: 20px;
+}
+
+.bandera-francesa {
+    width: 100px;
+    height: 60px;
+    margin: 10px auto;
+    display: flex;
+}
+
+.franja-azul {
+    background-color: blue;
+    width: 33%;
+}
+.franja-blanca-3 {
+    background-color: white;
+    width: 33%;
+}
+.franja-roja-3 {
+    background-color: red;
+    width: 33%;
+}
+.bandera-mexicana{
+    width: 100px;
+    height: 60px;
+    margin: 10px auto;
+    display: flex;
+}
+
+.franja-verde-2 {
+    background-color: green;
+    width: 33%;
+ 
+}
+  
+
+.franja-roja-4{
+    background-color: red;
+    width: 33%;
+  
+}
+
+.franja-blanca-4 {
+    background-color: white;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen-logo {
+    width: 20px;
+    height: 20px;
+    color: white;
+  
+}
